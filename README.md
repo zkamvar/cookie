@@ -8,8 +8,6 @@
 The goal of cookie is to give a live demonstration for Matt Dray's talk about 
 building a package: https://twitter.com/mattdray/status/1190683525005107200
 
-
-
 ## Installation
 
 You can install {cookie} from github with:
@@ -31,5 +29,14 @@ give_cookie("Zhian")
 give_cookie("Rob")
 #> Rob gets: a cookie!
 #> [1] "a cookie"
+```
+
+
+# Workflow
+
+Here's how we went through to create this:
+
+```r
+usethis::create_package
 ```
 
