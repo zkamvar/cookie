@@ -12,7 +12,7 @@ building a package: https://twitter.com/mattdray/status/1190683525005107200
 
 You can install {cookie} from github with:
 
-```{r eval = FALSE}
+```r
 remotes::install_github("zkamvar/cookie")
 ```
 
