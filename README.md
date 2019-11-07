@@ -50,4 +50,4 @@ usethis::create_package
 * [Mockery](https://github.com/r-lib/mockery)
 * [List of expect functions](https://testthat.r-lib.org/reference/index.html)
 
-
+![](images/cat.gif)
