@@ -15,3 +15,5 @@ RoxygenNote: 6.1.1
 Imports: 
     stats,
     glue
+URL: https://github.com/zkamvar/cookie
+BugReports: https://github.com/zkamvar/cookie/issues
