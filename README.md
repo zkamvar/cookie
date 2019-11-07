@@ -33,3 +33,15 @@ give_cookie("Rob")
 #> [1] "a cookie"
 ```
 
+## Resources
+
+* [Testing slides](https://github.com/r-ash/testing)
+
+* [testthat](https://testthat.r-lib.org/)
+* [R packages testing chapter](http://r-pkgs.had.co.nz/tests.html)
+* [covr](https://github.com/r-lib/covr)
+* [Travis R](https://docs.travis-ci.com/user/languages/r/)
+* [Julia Silge Travis begginers guide](https://juliasilge.com/blog/beginners-guide-to-travis/)
+* [Mockery](https://github.com/r-lib/mockery)
+* [List of expect functions](https://testthat.r-lib.org/reference/index.html)
+
