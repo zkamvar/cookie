@@ -11,10 +11,15 @@ give_cookie <- function(name) {
 
   stopifnot(is.character(name))
 
+
   if (stats::runif(1) > 0.1) {
     thing <- "a cookie"
   } else {
     thing <- "an onion"
+  }
+
+  if (name == "Rob") {
+    thing <- "a cookie"
   }
   name_gets_thing(name, thing)
   thing

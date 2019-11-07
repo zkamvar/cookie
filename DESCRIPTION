@@ -17,3 +17,5 @@ Imports:
     glue
 URL: https://github.com/zkamvar/cookie
 BugReports: https://github.com/zkamvar/cookie/issues
+Suggests: 
+    testthat (>= 2.1.0)
